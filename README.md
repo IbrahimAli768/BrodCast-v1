@@ -19,3 +19,6 @@
 ![Logo](https://media.discordapp.net/attachments/995390392218435716/1005279903320653914/unknown.png)
 ## three
 ![Logo](https://media.discordapp.net/attachments/995390392218435716/1005279903693951026/unknown.png?width=747&height=468)
+
+## show
+![Logo](https://media.discordapp.net/attachments/995390392218435716/1005286261424148540/unknown.png)
